@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+
+a {
+ color: #DD1133;
+ text-decoration: none;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h1, h2, h3 {
+  font-weight: normal;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+
+.remark-slide-container {
+  background-color: #111111;
+}
+
+.remark-slide {
+  color: #111111;
+}
+.remark-slide-content {
+  background-color: #DDDDDD;
+  vertical-align: middle;
+  font-size: 32px;
+}
+
+strong {
+  color: #FF1111;
+}
