@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>From an idea to a MVP</title>
-    <meta charset="utf-8">
-    <link rel="stylesheet" type="text/css" href="application.css">
-  </head>
-  <body>
-    <textarea id="source">
-
 # From an idea to a MVP
 
 ![MVP](images/mvp.png)
@@ -651,12 +641,3 @@ Most of this comes from various sources:
 * Eric Ries "The Lean Startup"
 * Steve Blank "Four Steps to Epiphany"
 * Adeo Ressi "One sentence pitch"
-
-    </textarea>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
-    </script>
-    <script>
-      var slideshow = remark.create();
-    </script>
-  </body>
-</html>
