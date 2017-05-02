@@ -279,11 +279,11 @@ See a more complete version [here](http://startitup.co/guides/285/problem-interv
 
 ### Example 2
 
-  My company, **Bluesquare**<br>
-  is developping **Web Application**<br>
-  to help **ministries of health in low income countries**<br>
-  to **encourage good behaviour from health centers**<br>
-  by **giving them money based on the value they provide to the population**
+My company, **Bluesquare**<br>
+is developping **Web Application**<br>
+to help **ministries of health in low income countries**<br>
+to **encourage good behaviour from health centers**<br>
+by **giving them money based on the value they provide to the population**
 
 ---
 
@@ -426,7 +426,15 @@ If you have defined everything business-wise, you’re not looking for a Cofound
 
 Only 25% of founders are technical. Most of those have ideas themselves they want to make happen.
 
+---
+
+### Summary (1)
+
 > You are competing with other people with ideas - work your pitch. Show your unfair advantage. Think about what would make someone invest her sweat and skills at your company and not someone's else.
+
+---
+
+### Summary (2)
 
 > You can't bet your business on finding a technical cofounder in a specific amount of time
 
@@ -523,6 +531,10 @@ This is not linear - it's exponential.
 * Risky: Who decide if/when it is "done"?
 * Require very detailed specification
 * Risky (2): Who can say it's per the specification or not?
+
+---
+
+### Collaboration vs Contracts
 
 > Remember that every minute spend by you & your developer arguing over who is right is a minute lost for your project. Be sure it's worth it.
 
@@ -688,7 +700,7 @@ As a **user category** I want **given functionality** so I can get **benefit**
 
 ---
 
-# Thanks!
+## Thanks!
 
 ### Any feedback is most welcome: [martin@joyouscoding.com](martin@joyouscoding.com)
 
@@ -696,7 +708,7 @@ Slides are available here [joyouscoding.com/workshop-mvp/](http://joyouscoding.c
 
 ---
 
-# References
+## References
 
 Most of this comes from various sources:
 
