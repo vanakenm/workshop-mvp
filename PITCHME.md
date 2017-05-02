@@ -14,10 +14,17 @@
 
 ## Me
 
-* Martin Van Aken - [joyouscoding.com](joyouscoding.com)
+* Martin Van Aken - [joyouscoding.com](http://www.joyouscoding.com)
 * Software Developer since 15 years
-* Co-founder of [PullReview](pullreview.com)
-* Currently coach at [LeWagon](lewagon.org) and Freelance
+* Co-founder of [PullReview](http://pullreview.com)
+* Coach at [LeWagon](http://www.lewagon.org)
+* CTO at [Bluesquare](http://www.bluesquarehub.com)
+
+---
+
+> I've been developing software for the last 15 years.
+
+> I'm from the other side. I'm here to help.
 
 ---
 
