@@ -47,14 +47,14 @@
 
 * **Minimal**: not a dream, not even a v1
 * **Viable**: able to attract/interest users
-* **Product**: providing value (entertrainement/productivity/whatever)
+* **Product**: providing value (entertainment/productivity/whatever)
 
 ---
 
 ## What it's not
 
 * A fully defined product
-* A test
+* A technical test
 
 ---
 
@@ -106,12 +106,14 @@
 * "This is for everyone"
 * "We have three types of customers"
 
+The closest thing I know to an "app for everyone" is Facebook. You are not Facebook (and even they started with a quite specific audience)
+
 ---
 
 ### Some good cases
 
 * Pick an audience you know
-* Be careful that **you are not your audience** even if you are in your audience
+* Be careful that **you are not your audience** even if you are **in** your audience
 
 ---
 
@@ -134,6 +136,12 @@ The **knowledge of your audience** is the biggest thing you bring as a business 
 * We talk a lot about ideas
 * How to protect them
 * How valuable their are
+
+---
+
+### The reality
+
+![](https://pbs.twimg.com/media/A-B1s7XCUAE_nYd.jpg)
 
 ---
 
@@ -194,7 +202,7 @@ See a more complete version [here](http://startitup.co/guides/285/problem-interv
 
 ### Efficiency
 
-* 15 * 30 minutes = **7,5 hours**
+* 15 times 30 minutes = just **7.5 hours**
 * After 6-8, people start repeating themselves.
 * That's **very cheap** to validate your business
 
@@ -206,6 +214,12 @@ See a more complete version [here](http://startitup.co/guides/285/problem-interv
 * Create a possible alpha user list
 
 **No reason not to do them.**
+
+---
+
+### Fail fast
+
+>  I understand you don't want to hear your idea is bad (or that you are not solving any problem). But let's be honest - if it is actually bad, better to know it as early as possible
 
 ---
 
@@ -253,13 +267,23 @@ See a more complete version [here](http://startitup.co/guides/285/problem-interv
 
 ---
 
-### Example
+### Example 1
 
  My company, **LeWagon**<br>
  is developping **a 9 week coding bootcamp**<br>
  to help **entrepreneurs**<br>
  to **get their first MVP out**<br>
  by **developing it themselves with our coaches help**
+
+---
+
+### Example 2
+
+  My company, **Bluesquare**<br>
+  is developping **Web Application**<br>
+  to help **ministries of health in low income countries**<br>
+  to **encourage good behaviour from health centers**<br>
+  by **giving them money based on the value they provide to the population**
 
 ---
 
@@ -349,7 +373,7 @@ A blog is the "perfect" MVP
 * Lots of themes for the look and feel
 * Lots of plugin for various functionalities (forms, emails, etc)
 * Hosting available
-* Example: [Wordpress](wordpress.com], [Drupal](drupal.org)
+* Example: [Wordpress](wordpress.com], [Drupal](drupal.org), [Wix](wix.com)
 
 ---
 
@@ -366,15 +390,15 @@ A blog is the "perfect" MVP
 
 ## Technical Cofounders
 
-I'm starting a band. I can't really play any instrument or sing, so I'm looking for a few musical co-founders.
+> I'm starting a band. I can't really play any instrument or sing, so I'm looking for a few musical co-founders.
 
-- [Ryan Greenberg](https://twitter.com/greenberg/status/204294460421586947)
+> [Ryan Greenberg](https://twitter.com/greenberg/status/204294460421586947)
 
 ---
 
 ### Startup
 
-A startup is a company who's main product is a software.
+A startup is a company whose main product is a software.
 
 ---
 
@@ -386,7 +410,9 @@ If you are not ready to let shares go, you’re not looking for a Cofounder - yo
 
 ### What about 50%?
 
-I'll be building the software, what are you bringing? (hint: "the idea" is not a good answer)
+I'll be building the software, what are you bringing? (hint: there are a lot of good answers to that question, but "the idea" is not one of them).
+
+As a starting company, your stock is worth basically nothing - in a sector which is rewarding well, this is a difficult situation.
 
 ---
 
@@ -399,6 +425,10 @@ If you have defined everything business-wise, you’re not looking for a Cofound
 ### You are not going to find one
 
 Only 25% of founders are technical. Most of those have ideas themselves they want to make happen.
+
+> You are competing with other people with ideas - work your pitch. Show your unfair advantage. Think about what would make someone invest her sweat and skills at your company and not someone's else.
+
+> You can't bet your business on finding a technical cofounder in a specific amount of time
 
 ---
 
@@ -418,7 +448,7 @@ Only 25% of founders are technical. Most of those have ideas themselves they wan
 ### Cons
 
 * Hopping between projects
-* Expensives (day rate)
+* Expensive (day rate ~ 500€)
 * Quickly to 5-10K
 
 ---
@@ -440,6 +470,12 @@ Only 25% of founders are technical. Most of those have ideas themselves they wan
 * Not easy to let go/start again
 * Expensive (total)
 * Single bullet
+
+---
+
+## General recommandations
+
+Freelances are the safest bet (best value for money to get started) - but they get expensive really fast, which means you need to optimize their time.
 
 ---
 
@@ -485,6 +521,10 @@ This is not linear - it's exponential.
 * Looks like a good idea
 * Almost impossible for all but the simplest (= shortest) projects
 * Risky: Who decide if/when it is "done"?
+* Require very detailed specification
+* Risky (2): Who can say it's per the specification or not?
+
+> Remember that every minute spend by you & your developer arguing over who is right is a minute lost for your project. Be sure it's worth it.
 
 ---
 
@@ -494,6 +534,7 @@ This is not linear - it's exponential.
 * Split them into smaller tasks
 * Discuss on working software more than requirements
 * Every task should have a user-observable result
+* Rinse & repeat
 
 ---
 
@@ -523,6 +564,18 @@ As a **user category** I want **given functionality** so I can get **benefit**
 
 ---
 
+### Example (AirBnB)
+
+> As a **tourist** I want **see a list of flat available in the city I'm going to with their rate & location** so I can **see the one best for my own tastes & price range**
+
+---
+
+### Example (Accounting Software)
+
+> As a **company owner or freelance** I want **see a list of my unpaid invoice** so I can  **get them paid quicker**
+
+---
+
 ## Mockups (again)
 
 ---
@@ -533,12 +586,15 @@ As a **user category** I want **given functionality** so I can get **benefit**
 * Show the interactions (clicking here leads there)
 * It should not be pretty (big boxes are good)
 
+[Great example](https://www.youtube.com/watch?v=GrV2SZuRPv0)
+
 ---
 
 ### Why
 
 * Helps a lot understanding the stories
 * Give design guidelines
+* Much better specification than a long explanation
 
 ---
 
@@ -553,7 +609,10 @@ As a **user category** I want **given functionality** so I can get **benefit**
 ### Mobile
 
 * More mobile than desktop traffic today
-* When doing mockups, think about smallscreens!
+* When doing mockups, think about small screens!
+* "Mobile first" is actually good: force to limit what you see on a single screen
+
+> Choices are difficult, but they lead to better designs
 
 ---
 
@@ -607,6 +666,8 @@ As a **user category** I want **given functionality** so I can get **benefit**
 * Your developer is talking in technical terms (setting up a database, validating something, etc)
 * You are not seeing a working version of your software on a regular basis
 
+> Real horror story: an entrepreneur in Brussels paid more than 30K to have an app delivered, and had still nothing in his hands 6 months after having started...
+
 ---
 
 ## We're talking about an MVP
@@ -615,6 +676,8 @@ As a **user category** I want **given functionality** so I can get **benefit**
 * Think of it as a first step
 * Put users on it, collect their feedback
 * Rinse & Repeat
+
+> Better to lose 2-5K than 50K
 
 ---
 
