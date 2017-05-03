@@ -30,17 +30,18 @@
 
 ## Why
 
-* Moving my activity from big companies to startups
-* Met a lot of business owners those last 6 months
+* Moved my activity from big companies to startups
+* Met a lot of business owners those last 4 years
 * This is a summary/faqs from those discussions
 
 ---
 
-# Agenda
+## Agenda
 
 1. What is an MVP
 1. Before the software
 1. MVP without coding
+1. Technology brief
 1. Developers
 1. Ordering software
 
@@ -388,6 +389,27 @@ A blog is the "perfect" MVP
 
 * Cost to learn the platform
 * Difficult if you want to customize a lot
+
+---
+
+# Technology brief
+
+---
+
+### What language/technology should I use for my project?
+
+> 99% of the project does not have any specific technology requirement - ie, on the tech side, your project has nothing peculiar
+
+> (That's good BTW).
+
+---
+
+### Two rules
+
+- One that is known by your developer
+- One that is popular
+
+That's all.
 
 ---
 
